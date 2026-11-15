@@ -1,0 +1,9 @@
+App(
+    appid="lake_clicker",
+    name="Lake Clicker",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="lake_clicker_app",
+    stack_size=2 * 1024,
+    fap_category="Games",
+    requires=["gui", "bt"],
+)
