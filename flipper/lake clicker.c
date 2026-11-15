@@ -2,6 +2,7 @@
 #include <furi_hal.h>
 #include <gui/gui.h>
 #include <input/input.h>
+#include <storage/storage.h>
 #include <bt/bt_service/bt.h>
 #include <profiles/serial_profile.h>
 #include <math.h>
